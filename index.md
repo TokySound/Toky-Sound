@@ -19,4 +19,7 @@
 在學這些個過程，我才了解網站架設原理，還有html、CSS語言等。目前初學，雖然現在只是為了寫文章，如果之後有其他需求，我再去學更多的技術。
 
 **歡迎聯絡我!**
+
 [IG](https://www.instagram.com/toky_tsao/?utm_source=qr)
+
+[自我介紹](https://tokysound.github.io/Toky-Sound/About-me/self-introduction)
