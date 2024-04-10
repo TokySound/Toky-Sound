@@ -22,5 +22,5 @@
 
 [IG](https://www.instagram.com/toky_tsao/?utm_source=qr)
 
-[關於我](https://tokysound.github.io/Toky-Sound/About-me/關於我.md)
+[關於我](https://tokysound.github.io/Toky-Sound/About-me/關於我)
 
