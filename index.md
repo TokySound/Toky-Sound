@@ -9,7 +9,7 @@
 
 [IG](https://www.instagram.com/toky_tsao/?utm_source=qr)
 
-[關於我](https://tokysound.github.io/Toky-Sound/About-me/關於我)
+[目錄](https://tokysound.github.io/Toky-Sound/About-me/%E7%9B%AE%E9%8C%84)
 
                         本網頁使用GitHub Pages架設
 
