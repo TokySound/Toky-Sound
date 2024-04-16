@@ -9,7 +9,7 @@
 
 [IG](https://www.instagram.com/toky_tsao/?utm_source=qr)
 
-[目錄](https://tokysound.github.io/Toky-Sound/catalogue.md)
+[目錄](https://tokysound.github.io/Toky-Sound/catalogue)
 
                                                                                                 本網頁使用GitHub Pages架設
 
