@@ -30,3 +30,6 @@
 
 2/26
 桌球從完全不會打，到現在打得越來越順了，不過一分三十秒打100下有點難。電子材料分數比我預期還要好，上課上到快睡著，為了學分只好撐下去了。下大雨去健身房真的心情不會很好，但練完的成就感能忽略這件事。
+
+4/27
+I woke up at 8 o'clock,I found that I am addicted chess a lot,so I would like to control my gaming time.As soon as I download the game,I will very addicted it.I've been going to the gym many times, I discovery that I am getting better and better,I feel like I can get even better!
