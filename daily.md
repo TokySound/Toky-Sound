@@ -33,3 +33,6 @@
 
 4/27
 I woke up at 8 o'clock,I found that I am addicted chess a lot,so I would like to control my gaming time.As soon as I download the game,I will very addicted it.I've been going to the gym many times, I discovery that I am getting better and better,I feel like I can get even better!
+
+4/28
+I stay in the library all day; I enjoy studying by myself.
