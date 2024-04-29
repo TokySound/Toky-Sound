@@ -36,3 +36,6 @@ I woke up at 8 o'clock,I found that I am addicted chess a lot,so I would like to
 
 4/28
 I stay in the library all day; I enjoy studying by myself.
+
+4/29
+Many times, I feel tired because I <u>have to</u> face a lot of subjects that I hate. I think I need to do something I am interested in.
