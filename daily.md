@@ -39,3 +39,9 @@ I stay in the library all day; I enjoy studying by myself.
 
 4/29
 Many times, I feel tired because I <u>have to</u> face a lot of subjects that I hate. I think I need to do something I am interested in.
+
+4/30
+I got a score of 15 on the engineering math test. It's the lowest score I've ever gotten on any university test.
+
+5/1
+I don't know how to make the 8051 microcontroller <u>produce</u> the correct music beats.
