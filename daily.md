@@ -45,3 +45,12 @@ I got a score of 15 on the engineering math test. It's the lowest score I've eve
 
 5/1
 I don't know how to make the 8051 microcontroller <u>produce</u> the correct music beats.
+
+5/2
+We can do something you want.
+
+5/3
+It's my first time feeling bored with professional subjects.
+
+5/4
+Engineering math is also boring.
