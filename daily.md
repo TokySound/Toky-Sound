@@ -54,3 +54,6 @@ It's my first time feeling bored with professional subjects.
 
 5/4
 Engineering math is also boring.
+
+5/5
+An ordinary day is spent studying by myself in the library.
