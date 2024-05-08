@@ -57,3 +57,9 @@ Engineering math is also boring.
 
 5/5
 An ordinary day is spent studying by myself in the library.
+
+5/6
+I had no idea.
+
+5/7
+Bless me to pass the examine.
