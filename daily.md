@@ -63,3 +63,6 @@ I had no idea.
 
 5/7
 Bless me to pass the examine.
+
+5/10
+I was tired from many things. Today, I will attempt to find my hopes and dreams.
