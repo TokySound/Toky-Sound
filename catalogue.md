@@ -4,4 +4,4 @@
 
 [讀書筆記](https://tokysound.github.io/Toky-Sound/note1/Category_page)
 
-[每日廢文](https://tokysound.github.io/Toky-Sound/daily)
+
